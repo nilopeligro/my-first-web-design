@@ -2193,10 +2193,12 @@ a:visited{
 		#showcase p{
 			text-align:center;
 			margin-top:-40px;
+			font-size: 25px;
 		}
 		#showcase h2{
 			text-align:center;
 			margin-top:-20px;
+			font-size: 30px;
 		}
 		#showcase .showcase1{
 			float:none;
